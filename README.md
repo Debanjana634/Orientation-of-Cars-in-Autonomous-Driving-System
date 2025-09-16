@@ -5,7 +5,9 @@ This project explores the problem of predicting the **orientation of cars** in t
 
 The notebook applies computer vision and deep learning techniques to detect and classify car orientations from image datasets.  
 
-### Dataset Link: https://www.kaggle.com/code/safurahajiheidari/yolov8-object-detection-on-self-driving-car-data
+### Dataset Link: 
+
+https://www.kaggle.com/code/safurahajiheidari/yolov8-object-detection-on-self-driving-car-data
 
 ---
 
